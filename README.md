@@ -1,0 +1,3 @@
+# SenopatikaRepo
+
+ini harusnya readme
